@@ -1,2 +1,2 @@
 # MyAccount
-https://github.com/narendrapokharel/MyAccount.git
+https://narendrapokharel.github.io/MyAccount/
